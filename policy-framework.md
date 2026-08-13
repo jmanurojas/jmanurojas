@@ -8,7 +8,7 @@ This repository serves as an open-access framework for technology policy, AI gov
 
 **Juan Manuel Rojas Piedrahita**  
 *Digital Policy & Internet Governance Specialist*[cite: 1]  
-📍 Villavicencio, Meta, Colombia[cite: 1] | 📧 jmanuelrojasp@gmail.com[cite: 1] | 🌐 [jmanurojas.com](https://www.jmanurojas.com)[cite: 1]  
+📍 Villavicencio, Meta, Colombia[cite: 1]  | 🌐 [jmanurojas.com](https://www.jmanurojas.com)[cite: 1]  
 🔗 [ORCID](https://orcid.org/0000-0002-9263-2683)[cite: 1] | [Google Scholar](https://scholar.google.com)[cite: 1]
 
 * **Global Internet Governance:** Elected GNSO Councilor (2026–2028)[cite: 1] and Chair of the Not-for-Profit Organizations Constituency (NPOC) at ICANN (2024–2026)[cite: 1].
