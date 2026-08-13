@@ -24,5 +24,5 @@ Rather than traditional software code, I use GitHub to host, version-control, an
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/jmanurojas](https://linkedin.com)
 - **Languages:** Native Spanish, Fluent English
